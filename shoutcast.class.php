@@ -12,7 +12,7 @@ class shoutcast {
      */
     private $ip;
     /**
-     * @var string Port the SC-Server listens on
+     * @var int Port the SC-Server listens on
      * @access private
      */
     private $port;

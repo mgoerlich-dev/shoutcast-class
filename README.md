@@ -23,7 +23,7 @@ Erstellt ein neues Shoutcast Objekt
     pass
         Das Passwort für das Admin-Interface des Shoutcast Servers
 
-### getShoutcastData()
+### _getShoutcastData()
     array shoutcast::getShoutcastData()
 
 Gibt die Daten aus der Shoutcast XML als Array zurück (Songhistory ausgenommen)

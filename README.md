@@ -13,7 +13,7 @@ Methoden
 
 Erstellt ein neues Shoutcast Objekt
 
-## Parameter
+# Parameter
     ip
         Die IP des Shoutcast Servers
 
@@ -22,18 +22,17 @@ Erstellt ein neues Shoutcast Objekt
 
     pass
         Das Passwort für das Admin-Interface des Shoutcast Servers
-##
 
 ### getShoutcastData()
     array shoutcast::getShoutcastData()
 
 Gibt die Daten aus der Shoutcast XML als Array zurück (Songhistory ausgenommen)
 
-## Parameter
+# Parameter
     nuttin
         to care 'bout
 
-## Rückgabewert
+# Rückgabewert
     Die Daten aus der Shoutcast XML werden als Array zurückgegeben
 
 ### getShoutcastHistory()
@@ -41,11 +40,11 @@ Gibt die Daten aus der Shoutcast XML als Array zurück (Songhistory ausgenommen)
 
 Liefert die Sonhistory des Shoucast Servers als Array
 
-## Parameter
+# Parameter
     nuttin
         to care 'bout
 
-## Rückgabewert
+# Rückgabewert
     Songhistory des Shoutcast Servers als in einem Array
 
 # 1

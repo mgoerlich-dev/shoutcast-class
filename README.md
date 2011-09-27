@@ -1,12 +1,12 @@
 shoutcast Klasse für PHP
 ======
 
-Eigenschaften
-----------------
+# Eigenschaften
+
 Keine um die ihr euch kümmern solltet ;)
 
-Methoden
-----------------
+# Methoden
+
 
 ## __construct()
     object shoutcast::__construct( string $ip, int $port, string $pass )

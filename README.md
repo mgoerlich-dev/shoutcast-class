@@ -45,4 +45,4 @@ Liefert die Sonhistory des Shoucast Servers als Array
         to care 'bout
 
 ### Rückgabewert
-    Songhistory des Shoutcast Servers als Array
+    Songhistory des Shoutcast Servers als Array.
